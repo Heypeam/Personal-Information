@@ -1,0 +1,14 @@
+/* เพิ่มในไฟล์ CSS ของคุณ */
+.icon-circle.tiktok {
+    background: #000000; /* สีดำของ TikTok */
+    /* หรือจะใช้สีไล่ระดับแบบ TikTok ก็ได้ */
+    background: linear-gradient(45deg, #000000, #FE2C55, #25F4EE);
+}
+
+.icon-circle.tiktok:hover {
+    background: #FE2C55; /* สีแดงของ TikTok */
+}
+
+.icon-circle.tiktok i {
+    color: white;
+}
